@@ -71,7 +71,7 @@ h3{
     justify-content: center;
     display: flex;
     height: 110px;
-    width: 100%;
+    /*width: 100%;*/
     max-width: 900px;
     margin: 8px;
     text-align: center;
