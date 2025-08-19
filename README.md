@@ -8,7 +8,7 @@ Incluye accesos rápidos a redes sociales y medios de contacto.
 
 <p align="center">
   <a href="#-acerca-del-proyecto">Acerca del proyecto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="-estado-del-proyecto">Estado del proyecto</a> &nbsp;&nbsp;&nbsp;
+  <a href="#-estado-del-proyecto">Estado del proyecto</a> &nbsp;&nbsp;&nbsp;
 </p>
 
 ---
@@ -28,7 +28,7 @@ Además de ser útil para el emprendimiento, este proyecto me permitió reforzar
 
 ---
 
-## ✅ Estado del proyeto
+## ✅ Estado del proyecto
 Actualmente el proyecto se encuentra en su versión inicial y **funcional**.  
 Aún se planean mejoras para optimizar la experiencia de usuario, entre ellas:  
 
